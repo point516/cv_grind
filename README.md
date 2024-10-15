@@ -1,2 +1,2 @@
-# cv_grind
-Just grinding Computer Vision
+# Diving into Computer Vision tasks
+1) Image Captioning
